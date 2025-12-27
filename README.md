@@ -1,8 +1,10 @@
 <div align="center">
 
 <h1>Turning Ideas Into Apps 🌎</h1>
-<h3>Hi 👋 I'm Jatin Jaiswal</h3>
+<h2>Hi 👋 I'm Jatin Jaiswal</h2>
 <h4>A software developer from India 🇮🇳</h4>
+
+<br/>
 
 <img src="https://raw.githubusercontent.com/SanskarSh/Vault/main/GIF/mario-working.gif" width="100%" />
 
@@ -41,6 +43,7 @@
     </tr>
   </table>
 </div>
+
 
 <br/>
 
